@@ -1,0 +1,59 @@
+﻿  Main.cpp
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(93,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(94,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(95,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(95,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(171,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(104,6): warning C4101: 'Debug': unreferenced local variable
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(319,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(319,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(385,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(402,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(402,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(420,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(421,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(675,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(679,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Main.cpp(724,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  1 of 393 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TheUltimateMageUltraSuperLastGuy.vcxproj -> D:\SFMLProject\TheUltimateMageUltraSuperLastGuy\TheUltimateMageUltraSuperLastGuy\Release\TheUltimateMageUltraSuperLastGuy.exe
